@@ -6,7 +6,7 @@ Custom PCB layout for the Smart Plant Monitoring System.
 
 PCB was designed in [EasyEDA](https://easyeda.com/) — free, browser-based, with direct JLCPCB/PCBWay ordering integration.
 
-## Files to Add Here
+## Files Added Here
 
 | File | Description |
 |---|---|
