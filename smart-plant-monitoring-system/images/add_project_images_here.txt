@@ -1,0 +1,7 @@
+Add your real project photos here:
+
+- final_model.jpg
+- pcb_design.png
+- schematic.png
+- oled_output.jpg
+- pump_setup.jpg

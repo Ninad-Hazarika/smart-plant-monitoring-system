@@ -1,0 +1,21 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lss
+*.sym
+*.d
+*.o
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Secrets
+secrets.h
+wifi_credentials.h
