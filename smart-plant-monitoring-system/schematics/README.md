@@ -2,8 +2,6 @@
 
 Circuit schematics for the Smart Plant Monitoring System were designed using [EasyEDA](https://easyeda.com/).
 
-## Files
-
 ## Files Added
 
 | Format | Use |
